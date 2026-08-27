@@ -1,0 +1,6 @@
+{
+  "name": "OBSIDIAN - Autonomous Cyber-Defense SOC",
+  "description": "Next-generation dark cyberpunk autonomous cyber-defense platform featuring WebGL Auralis shaders, interactive threat map, simulated autonomous attack response, digital twin deception, and cryptographic evidence ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
